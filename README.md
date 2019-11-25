@@ -1,5 +1,5 @@
 #Meu Conky
-# Conky, a system monitor, based on torsmo
+#Conky, a system monitor, based on torsmo
 #alignment top_right # middle_right
 background no
 use_xft yes
